@@ -167,6 +167,12 @@
    color: rgb(225, 64, 118);
 }
 
-/* .discount-img{
-    padding-top: 20px;
-} */
+.insta-img{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    width: 600px;
+    padding: 40px;
+    margin: auto;
+}
