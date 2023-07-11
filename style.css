@@ -48,6 +48,7 @@
     padding: 12px 23px;
     border-radius: 6px;
     color: white;
+    margin-top: 10px;
 
 }
 
@@ -114,3 +115,58 @@
     font-weight: bolder;
     
 }
+
+.optional-section{
+    width: 920px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: rgb(244, 238, 238);
+    padding: 60px 10px;
+    border-radius: 6px;
+}
+.optional-section img{
+   margin-left: 40px;
+}
+
+.optional-sections{
+    margin-top: 130px;
+    
+}
+
+.optional-p{
+    margin-top: 15px;
+    color: rgb(112, 102, 102);
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    font-weight: 500;
+}
+
+
+.discount-section{
+    background-color: rgb(252, 247, 248);
+    margin-top: 120px;
+}
+
+.discount {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 800px;
+    margin: auto;
+    padding: 30px 0px;
+}
+
+.discount-info{
+    text-align: center;
+    width: 450px;
+    font-family: 'Lato', sans-serif;
+}
+.of{
+   color: rgb(225, 64, 118);
+}
+
+/* .discount-img{
+    padding-top: 20px;
+} */
